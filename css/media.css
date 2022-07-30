@@ -1,0 +1,1052 @@
+@media(max-width: 1599.99px){
+	.banner-item {
+		margin-top: 231px;
+	}
+}
+
+@media (min-width: 1400px) and (max-width: 1599.98px){
+	/* ===Navber Part Start=== */
+.navbar-toggler:focus {
+	box-shadow: none;
+}
+.navbar-nav{
+    background-color: transparent;
+    text-align: center;
+}
+.btn-primary {
+	color: #fff;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link::after {
+	display: none;
+}
+/* ===Navber Part End=== */
+/* ===banner Part Start=== */
+.banner-item {
+	margin-top: 130px;
+}
+.banner-text h2 {
+	font-size: 72px;
+	padding-bottom: 44px;
+}
+.banner-text h1 {
+	font-size: 150px;
+	line-height: 150px;
+	margin-bottom: 88px;
+}
+.banner-text h1::after {
+	bottom: -24px;
+	left: 50%;
+}
+.banner-text a {
+	padding: 15px 40px;
+}
+
+/* ===banner Part End=== */
+/* ===About Part Start=== */
+#about {
+	padding-top: 92px;
+	padding-bottom: 110px;
+}
+.heading h3 {
+	font-size: 30px;
+}
+.heading p {	
+	font-size: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 75px;
+}
+.about-pt {
+	padding-top: 40px;
+}
+/* ===About Part End=== */
+/* ===Counter Part Start=== */
+#counter {
+	padding-top:85px;
+	padding-bottom: 85px;
+}
+.counter-content{
+    margin-bottom: 30px;
+}
+.count h1 {
+	font-size: 72px;
+	padding-bottom: 18px;
+}
+.counter-content p {
+	font-size: 14px;
+}
+
+/* ===Counter Part End=== */
+/* ===Service Part Start=== */
+#service {
+	padding-top: 111px;
+	padding-bottom: 110px;
+}
+
+.service-item {
+	padding-top: 90px;
+}
+.service-content p {
+	padding-right: 0px;
+}
+.service-icon{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.mt {
+	padding-top: 80px;
+}
+/* ===Service Part End=== */
+/* ===Comment Part Start=== */
+#comment {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.comment-text p {
+	font-size: 24px;
+	line-height: 36px;
+	padding-right: 55px;
+
+}
+
+/* ===Comment Part End=== */
+/* ===Team Part Start=== */
+#team {
+	padding-top: 80px;
+	
+}
+.team-item {
+	padding-top: 40px;
+}
+.img-text {
+	padding-top: 30px;
+}
+.team-img-overlay a i {
+	width: 50px;
+	height: 50px;
+}
+/* ===Team Part Start=== */
+/* ===Gallery Part Start=== */
+#gallery {
+	padding-bottom: 50px;
+}
+.gal-item {
+	padding-top: 40px;
+}
+/* ===Gallery Part End=== */
+/* ===Footer Part Start=== */
+#footer {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.footer-left-text p {
+	margin-right: 50px;
+}
+.follow-us a i {
+	font-size: 15px;
+	padding-right: 13px;
+}
+
+.blogs-text h6 {
+    padding-bottom: 10px;
+	padding-right: 0;
+}
+
+.subscriber button {
+	padding: 13px 35px;
+	top: 1px;
+	right: 0px;
+}
+}
+@media (min-width: 1200px) and (max-width: 1399.98px){
+	/* ===Navber Part Start=== */
+
+.navbar-toggler:focus {
+	box-shadow: none;
+}
+.navbar-nav{
+    background-color: transparent;
+    text-align: center;
+}
+.btn-primary {
+	color: #fff;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link::after {
+	display: none;
+}
+/* ===Navber Part End=== */
+/* ===banner Part Start=== */
+.banner-item {
+	margin-top: 130px;
+}
+.banner-text h2 {
+	font-size: 72px;
+	padding-bottom: 44px;
+}
+.banner-text h1 {
+	font-size: 135px;
+	line-height: 135px;
+	margin-bottom: 60px;
+}
+.banner-text h1::after {
+	bottom: -17px;
+	left: 49%;
+}
+
+.banner-text a {
+	padding: 15px 40px;
+}
+
+
+/* ===banner Part End=== */
+/* ===About Part Start=== */
+#about {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.heading h3 {
+	font-size: 30px;
+}
+.heading p {	
+	font-size: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 75px;
+}
+.about-pt {
+	padding-top: 40px;
+}
+/* ===About Part End=== */
+/* ===Counter Part Start=== */
+#counter {
+	padding-top:85px;
+	padding-bottom: 85px;
+}
+.counter-content{
+    margin-bottom: 30px;
+}
+.count h1 {
+	font-size: 72px;
+	padding-bottom: 18px;
+}
+.counter-content p {
+	font-size: 14px;
+}
+
+/* ===Counter Part End=== */
+/* ===Service Part Start=== */
+#service {
+	padding-top: 111px;
+	padding-bottom: 110px;
+}
+
+.service-item {
+	padding-top: 90px;
+}
+.service-content p {
+	padding-right: 0px;
+}
+.service-icon{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.mt {
+	padding-top: 80px;
+}
+/* ===Service Part End=== */
+/* ===Comment Part Start=== */
+#comment {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.comment-inner-icon{
+    text-align: center;
+}
+.comment-text p {
+	font-size: 22px;
+	line-height: 36px;
+	padding-right: 0px;
+	padding-top: 10px;
+}
+.comment-text{
+    text-align: center;
+}
+/* ===Comment Part End=== */
+/* ===Team Part Start=== */
+#team {
+	padding-top: 80px;
+	
+}
+.team-item {
+	padding-top: 40px;
+}
+.img-text {
+	padding-top: 30px;
+}
+.team-img-overlay a i {
+	width: 50px;
+	height: 50px;
+}
+/* ===Team Part Start=== */
+/* ===Gallery Part Start=== */
+#gallery {
+	padding-bottom: 50px;
+}
+.gal-item {
+	padding-top: 40px;
+}
+/* ===Gallery Part End=== */
+/* ===Footer Part Start=== */
+#footer {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.footer-left-text p {
+	margin-right: 50px;
+}
+.follow-us a i {
+	font-size: 15px;
+	padding-right: 13px;
+}
+
+.blogs-text h6 {
+    padding-bottom: 10px;
+	padding-right: 0;
+}
+.blogs-text{
+    text-align: center;
+}
+.subscriber button {
+	padding: 13px 15px;
+	top: 1px;
+	right: 0px;
+}
+}
+@media (min-width: 992px) and (max-width: 1199.98px){
+	/* ===Navber Part Start=== */
+
+.navbar-toggler:focus {
+	box-shadow: none;
+}
+.navbar-nav{
+    background-color: transparent;
+    text-align: center;
+}
+.btn-primary {
+	color: #fff;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link::after {
+	display: none;
+}
+/* ===Navber Part End=== */
+/* ===banner Part Start=== */
+.banner-item {
+	margin-top: 60px;
+}
+.banner-text h2 {
+	font-size: 60px;
+	padding-bottom: 40px;
+}
+.banner-text h1 {
+	font-size: 125px;
+	line-height: 125px;
+	margin-bottom: 55px;
+}
+.banner-text h1::after {
+	bottom: -17px;
+	left: 44%;
+}
+.banner-text a {
+	padding: 15px 40px;
+}
+
+
+/* ===banner Part End=== */
+/* ===About Part Start=== */
+#about {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.heading h3 {
+	font-size: 30px;
+}
+.heading p {	
+	font-size: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 75px;
+}
+.about-pt {
+	padding-top: 40px;
+}
+/* ===About Part End=== */
+/* ===Counter Part Start=== */
+#counter {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.counter-content{
+    margin-bottom: 30px;
+}
+.count h1 {
+	font-size: 50px;
+	padding-bottom: 10px;
+}
+.counter-content p {
+	font-size: 13px;
+	line-height: 13px;
+}
+
+/* ===Counter Part End=== */
+/* ===Service Part Start=== */
+#service {
+	padding-top: 111px;
+	padding-bottom: 110px;
+}
+
+.service-item {
+	padding-top: 90px;
+}
+.service-content p {
+	padding-right: 0px;
+}
+.service-icon{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.mt {
+	padding-top: 80px;
+}
+/* ===Service Part End=== */
+/* ===Comment Part Start=== */
+#comment {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.comment-inner-icon{
+    text-align: center;
+}
+.comment-text p {
+	font-size: 22px;
+	line-height: 36px;
+	padding-right: 0px;
+	padding-top: 10px;
+}
+.comment-text{
+    text-align: center;
+}
+/* ===Comment Part End=== */
+/* ===Team Part Start=== */
+#team {
+	padding-top: 50px;
+	
+}
+.team-item {
+	padding-top: 40px;
+}
+.img-text {
+	padding-top: 30px;
+}
+.team-img-overlay a i {
+	width: 50px;
+	height: 50px;
+}
+/* ===Team Part Start=== */
+/* ===Gallery Part Start=== */
+#gallery {
+	padding-bottom: 50px;
+}
+.gal-item {
+	padding-top: 40px;
+}
+/* ===Gallery Part End=== */
+/* ===Footer Part Start=== */
+#footer {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.footer-left-text p {
+	margin-right: 50px;
+}
+.follow-us a i {
+	font-size: 15px;
+	padding-right: 13px;
+}
+
+.blogs-text h6 {
+    padding-bottom: 10px;
+	padding-right: 0;
+}
+.blogs-text{
+    text-align: center;
+}
+.subscriber button {
+	padding: 13px 15px;
+	top: 1px;
+	right: 0px;
+}
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+	/* ===Navber Part Start=== */
+
+.navbar-toggler:focus {
+	box-shadow: none;
+}
+.navbar-nav{
+    background-color: rgba(255, 153, 153, 0.9);
+    text-align: center;
+}
+.btn-primary {
+	color: #fff;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link::after {
+	display: none;
+}
+/* ===Navber Part End=== */
+/* ===banner Part Start=== */
+.banner-item {
+	margin-top: 60px;
+}
+.banner-text h2 {
+	font-size: 55px;
+	padding-bottom: 30px;
+}
+.banner-text h1 {
+	font-size: 90px;
+	line-height: 90px;
+	margin-bottom: 30px;
+}
+.banner-text h1::after {
+	display: none;
+}
+
+.banner-text a {
+	padding: 10px 30px;
+}
+.slick-dots{
+display: none !important;
+}
+
+/* ===banner Part End=== */
+/* ===About Part Start=== */
+#about {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.heading p {	
+	font-size: 14px;
+	padding-left: 0px;
+	padding-right: 0;
+	padding-top: 65px;
+}
+.about-pt {
+	padding-top: 40px;
+}
+/* ===About Part End=== */
+/* ===Counter Part Start=== */
+#counter {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.counter-content{
+    margin-bottom: 30px;
+}
+.count h1 {
+	font-size: 40px;
+	padding-bottom: 10px;
+}
+.counter-content p {
+	font-size: 13px;
+	line-height: 13px;
+}
+
+/* ===Counter Part End=== */
+/* ===banner Part Start=== */
+#service {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.heading h3 {
+	font-size: 25px;
+}
+.service-item {
+	padding-top: 70px;
+}
+.service-item{
+    text-align: center;
+    margin-top: 20px;
+}
+.service-content p {
+	padding-right: 0px;
+}
+.service-icon{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.mt {
+	padding-top: 0px;
+}
+/* ===banner Part End=== */
+/* ===Comment Part Start=== */
+#comment {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.comment-inner-icon{
+    text-align: center;
+}
+.comment-text p {
+	font-size: 22px;
+	line-height: 36px;
+	padding-right: 0px;
+	padding-top: 10px;
+}
+.comment-text{
+    text-align: center;
+}
+/* ===Comment Part End=== */
+/* ===Team Part Start=== */
+#team {
+	padding-top: 50px;
+	
+}
+.team-item {
+	padding-top: 40px;
+}
+.img-text {
+	padding-top: 30px;
+}
+.team-img-overlay a i {
+	width: 55px;
+	height: 55px;
+}
+/* ===Team Part Start=== */
+/* ===Gallery Part Start=== */
+#gallery {
+	padding-bottom: 50px;
+}
+.gal-item {
+	padding-top: 40px;
+}
+/* ===Gallery Part End=== */
+/* ===Footer Part Start=== */
+#footer {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.footer-left-text p {
+	margin-right: 50px;
+}
+.follow-us a i {
+	font-size: 15px;
+	padding-right: 13px;
+}
+
+.blogs-text h6 {
+    padding-bottom: 10px;
+	padding-right: 0;
+}
+.blogs-text{
+    text-align: center;
+}
+.subscriber button {
+	padding: 13px 15px;
+	top: 1px;
+	right: 0px;
+}
+}
+@media (min-width: 576px) and (max-width: 767.98px){
+	/* ===Navber Part Start=== */
+#navber {
+	padding-top: 0px;
+}
+.navbar {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.navbar-toggler:focus {
+	box-shadow: none;
+}
+.navbar-nav{
+    background-color: rgba(255, 153, 153, 0.9);
+    text-align: center;
+}
+.btn-primary {
+	color: #fff;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link::after {
+	display: none;
+}
+/* ===Navber Part End=== */
+/* ===banner Part Start=== */
+#banner {
+	/* padding-top: 100px;
+	padding-bottom: 50px; */
+}
+.banner-item {
+	margin-top: 50px;
+}
+.banner-text h2 {
+	font-size: 40px;
+	padding-bottom: 20px;
+}
+.banner-text h1 {
+	font-size: 60px;
+	line-height: 60px;
+	padding-bottom: 0px;
+	margin-bottom: 25px;
+}
+.banner-text h1::after {
+	display: none;
+}
+
+.banner-text a {
+	padding: 10px 30px;
+}
+.slick-dots{
+display: none !important;
+}
+
+/* ===banner Part End=== */
+/* ===About Part Start=== */
+#about {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.heading p {	
+	font-size: 14px;
+	padding-left: 0px;
+	padding-right: 0;
+	padding-top: 65px;
+}
+.about-pt {
+	padding-top: 40px;
+}
+/* ===About Part End=== */
+/* ===Counter Part Start=== */
+#counter {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.counter-content{
+    margin-bottom: 30px;
+}
+.count h1 {
+	font-size: 40px;
+	padding-bottom: 10px;
+}
+.counter-content p {
+	font-size: 13px;
+	line-height: 13px;
+}
+
+/* ===Counter Part End=== */
+/* ===banner Part Start=== */
+#service {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.heading h3 {
+	font-size: 25px;
+}
+.service-item {
+	padding-top: 70px;
+}
+.service-item{
+    text-align: center;
+    margin-top: 20px;
+}
+.service-content p {
+	padding-right: 0px;
+}
+.service-icon{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.mt {
+	padding-top: 0px;
+}
+/* ===banner Part End=== */
+/* ===Comment Part Start=== */
+#comment {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.comment-inner-icon{
+    text-align: center;
+}
+.comment-text p {	
+	font-size: 20px;
+	line-height: 30px;
+	padding-right: 0;
+    padding-top: 20px;
+}
+.comment-text{
+    text-align: center;
+}
+/* ===Comment Part End=== */
+/* ===Team Part Start=== */
+#team {
+	padding-top: 50px;
+	
+}
+.team-item {
+	padding-top: 40px;
+}
+.img-text {
+	padding-top: 30px;
+}
+/* ===Team Part Start=== */
+/* ===Gallery Part Start=== */
+#gallery {
+	padding-bottom: 50px;
+}
+.gal-item {
+	padding-top: 40px;
+}
+/* ===Gallery Part End=== */
+/* ===Footer Part Start=== */
+#footer {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.footer-left-text p {
+	margin-right: 50px;
+}
+.follow-us a i {
+	font-size: 15px;
+	padding-right: 13px;
+}
+
+.blogs-text h6 {
+    padding-bottom: 10px;
+	padding-right: 0;
+}
+.blogs-text{
+    text-align: center;
+}
+.subscriber button {
+	padding: 13px 15px;
+	top: 1px;
+	right: 0px;
+}
+}
+@media (max-width: 575.98px){
+/* ===Navber Part Start=== */
+#navber {
+	padding-top: 0px;
+}
+.navbar {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.navbar-toggler:focus {
+	box-shadow: none;
+}
+.navbar-nav{
+    background-color: rgba(255, 153, 153, 0.9);
+    text-align: center;
+}
+.btn-primary {
+	color: #fff;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link::after {
+	display: none;
+}
+/* ===Navber Part End=== */
+/* ===banner Part Start=== */
+#banner {
+	/* padding-top: 100px;
+	padding-bottom: 50px; */
+}
+.banner-item {
+	margin-top: 35px;
+}
+.banner-text h2 {
+	font-size: 15px;
+	padding-bottom: 2px;
+}
+.banner-text h1 {
+	font-size: 40px;
+		line-height: 38px;
+		margin-bottom: 5px;
+}
+.banner-text h1::after {
+	display: none;
+}
+
+.banner-text a {
+	padding: 5px 10px;
+}
+.slick-dots{
+display: none !important;
+}
+
+/* ===banner Part End=== */
+/* ===About Part Start=== */
+#about {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.heading p {	
+	font-size: 13px;
+	padding-left: 0px;
+	padding-right: 0;
+	padding-top: 65px;
+}
+.about-pt {
+	padding-top: 40px;
+}
+/* ===About Part End=== */
+/* ===Counter Part Start=== */
+#counter {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.counter-content{
+    margin-bottom: 30px;
+}
+.count h1 {
+	font-size: 40px;
+	padding-bottom: 10px;
+}
+.counter-content p {	
+	font-size: 13px;
+}
+
+/* ===Counter Part End=== */
+/* ===banner Part Start=== */
+#service {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.heading h3 {
+	font-size: 25px;
+}
+.service-item {
+	padding-top: 70px;
+}
+.service-item{
+    text-align: center;
+    margin-top: 20px;
+}
+.service-content p {
+	padding-right: 0px;
+}
+.service-icon{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.mt {
+	padding-top: 0px;
+}
+/* ===banner Part End=== */
+/* ===Comment Part Start=== */
+#comment {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.comment-inner-icon{
+    text-align: center;
+}
+.comment-text p {	
+	font-size: 20px;
+	line-height: 30px;
+	padding-right: 0;
+    padding-top: 20px;
+}
+.comment-text{
+    text-align: center;
+}
+/* ===Comment Part End=== */
+/* ===Team Part Start=== */
+#team {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.team-item {
+	padding-top: 40px;
+}
+.img-text {
+	padding-top: 30px;
+}
+/* ===Team Part Start=== */
+/* ===Gallery Part Start=== */
+#gallery {
+	padding-bottom: 50px;
+}
+.gal-item {
+	padding-top: 40px;
+}
+/* ===Gallery Part End=== */
+/* ===Footer Part Start=== */
+#footer {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.footer-left-text p {
+	margin-right: 0px;
+}
+.follow-us a i {
+	font-size: 13px;
+	padding-right: 5px;
+}
+
+.blogs-text h6 {
+    padding-bottom: 10px;
+	padding-right: 0;
+}
+.blogs-text{
+    text-align: center;
+}
+.subscriber button {
+	position: relative;
+	padding: 13px 15px;
+	top: 1px;
+	right: 0px;
+	width: 100%;
+	margin-top: 5px;
+}
+/* ===Footer Part End=== */
+.copyright-text{
+    text-align: center;
+}
+}
+@media (min-width: 390px) and (max-width: 575px){
+	.service-content p {
+		padding: 0px 67px;
+	}
+	.banner-text h1 {
+		font-size: 45px;
+		line-height: 45px;
+		margin-bottom: 5px;
+	}
+	.banner-item {
+		margin-top: 40px;
+	}
+	.banner-text h1 {
+		margin-bottom: 10px;
+	}
+	.banner-text h2 {
+		padding-bottom: 13px;
+	}
+}
